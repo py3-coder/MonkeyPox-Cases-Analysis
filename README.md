@@ -23,7 +23,7 @@ skin lesions of an infected person or recently contaminated objects. Transmissio
 -  The skin eruption usually begins within 1–3 days of appearance of fever. The rash tends to be more concentrated on the face and extremities rather than on the trunk. It affects the face (in 95% of cases), and palms of the hands and soles of the feet (in 75% of cases). Also affected are oral mucous membranes (in 70% of cases), genitalia (30%), and conjunctivae (20%), as well as the cornea. The rash evolves sequentially from macules (lesions with a flat base) to papules (slightly raised firm lesions), vesicles (lesions filled with clear fluid), pustules (lesions filled with yellowish fluid), and crusts which dry up and fall off. The number of lesions varies from a few to several thousand. In severe cases, lesions can coalesce until large sections of skin slough off.
 ## Screenshots
 
-
+[Case-Study-File](https://github.com/py3-coder/MonkeyPox-Cases-Analysis/blob/master/Case_Study-File.pdf)
 
 ![MonkeyPox](https://user-images.githubusercontent.com/54509629/174812332-15445b29-886c-4872-a5f2-0fa09b40ebf0.png)
 ## Libraries Uesd
@@ -36,9 +36,10 @@ skin lesions of an infected person or recently contaminated objects. Transmissio
 6. Pycountry
 7. Folium
 
+
 ## License
 
-[![Apache License](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSV_BWyJlXXxrPPqCZ4qsIqPQmlc6QM62Zqw&usqp=CAU )](https://choosealicense.com/licenses/apache-2.0/)
+[![Apache License](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSV_BWyJlXXxrPPqCZ4qsIqPQmlc6QM62Zqw&usqp=CAU)](https://choosealicense.com/licenses/apache-2.0/)
 ## Authors
 
 - [@SaurabhKumar](https://github.com/Saurabh2509)
