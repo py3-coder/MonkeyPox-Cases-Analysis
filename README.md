@@ -38,8 +38,7 @@ skin lesions of an infected person or recently contaminated objects. Transmissio
 
 
 ## License
-
-[![Apache License](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSV_BWyJlXXxrPPqCZ4qsIqPQmlc6QM62Zqw&usqp=CAU)](https://choosealicense.com/licenses/apache-2.0/)
+[Apache License]
 ## Authors
 
 - [SaurabhKumar](https://github.com/py3-coder)
