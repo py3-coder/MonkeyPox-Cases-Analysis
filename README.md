@@ -1,6 +1,6 @@
 
 # Monkey Pox Analysis
-
+-------------------------------------------------
 Monkeypox is a viral zoonosis (a virus transmitted to humans from animals) with symptoms similar to those seen in the past in smallpox patients, 
 although it is clinically less severe. With the eradication of smallpox in 1980 and subsequent cessation of smallpox vaccination, monkeypox has 
 emerged as the most important orthopoxvirus for public health. Monkeypox primarily occurs in central and west Africa, often in proximity to tropical rainforests, and has been increasingly appearing in urban areas. Animal hosts include a range of rodents and non-human primates
@@ -38,8 +38,6 @@ skin lesions of an infected person or recently contaminated objects. Transmissio
 
 
 ## License
-[Apache License]
+Apache License
 ## Authors
-
 - [SaurabhKumar](https://github.com/py3-coder)
-
