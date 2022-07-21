@@ -40,4 +40,4 @@ skin lesions of an infected person or recently contaminated objects. Transmissio
 ## License
 Apache License
 ## Authors
-- [SaurabhKumar](https://github.com/py3-coder)
+SaurabhKumar
